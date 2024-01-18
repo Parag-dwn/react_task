@@ -1,0 +1,11 @@
+.secondpage{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+    .depart_name{
+        display: flex;
+        flex-direction: row;
+    }
